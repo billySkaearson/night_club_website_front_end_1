@@ -1,0 +1,35 @@
+.header {
+	background-color: transparent;
+	display: flex;
+	justify-content: space-between;
+	padding-right: 10px;
+	padding-left:10px;
+	height: 70px;
+}
+
+header ul{
+list-style: none;
+
+}
+
+.profileFrame{
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	border: solid 2px gray;
+	overflow: hidden;
+}
+
+.profileFrame img{
+height: 100%;
+width: 100%;
+}
+
+.logo{
+	height: 50px;
+	margin-top: 10px;
+
+}
+.displayNone{
+	display: none;
+}

@@ -1,0 +1,31 @@
+.authPage{
+display: flex;
+flex-direction: column;
+height: 90vh;
+width: 100%;
+justify-content: space-around;
+align-items: center;
+}
+.authPage input{
+width: 90%;
+height: 50px;
+border-radius: 10px;
+font-size: 20px;
+}
+.authButton{
+	height: 50px;
+	width: 90%;
+	margin-top: 200px;
+	border-radius: 10px;
+	background-color: black;
+	color: white;
+	font-style: initial;
+	font-size: 20px;
+	border: 0px;
+	border:solid white 0.3px;
+
+}
+
+.authPhoto{
+	height: 10%;
+}
